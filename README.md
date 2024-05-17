@@ -1,3 +1,8 @@
+
+Figma Design
+
+https://www.figma.com/file/kFr9kgJw5JHoB0SWatWdMO/Duolingo?type=design&node-id=0%3A1&mode=design&t=EoIvuiB0Z5JYs1UT-1
+
 Установка
 Предварительные требования
 Python 3.8 или выше
